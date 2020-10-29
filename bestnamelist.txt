@@ -1,0 +1,10 @@
+Harry   12
+Jill    17
+Susan   22
+Mary    13
+Lou     11
+Billy   4
+Mark    24
+Kevin   3
+Katie   6
+Stephan 10
